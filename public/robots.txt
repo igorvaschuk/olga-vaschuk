@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://olga.vaschuk.com/sitemap.xml
